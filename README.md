@@ -94,8 +94,7 @@ Z = (Value - Mean) / StdDev
 
 # What else is in This Repository
 
-Raw_campaign_data.xlsx           Raw dataset
-cleaned_campaign_data.xlsx	     Final cleaned dataset
+Raw dataset and Final cleaned dataset
 
 
 # Outcome
